@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{86E8106A-634B-4152-BA61-5D370FD172F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSeqBufClean", "TestSeqBufClean\TestSeqBufClean.csproj", "{86E8106A-634B-4152-BA61-5D370FD172F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

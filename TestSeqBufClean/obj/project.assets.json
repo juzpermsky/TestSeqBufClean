@@ -1438,11 +1438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-      "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\TestSeqBufClean\\TestSeqBufClean.csproj",
+      "projectName": "TestSeqBufClean",
+      "projectPath": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\TestSeqBufClean\\TestSeqBufClean.csproj",
       "packagesPath": "C:\\Users\\Juz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\Juz\\RiderProjects\\ConsoleApp3\\TestSeqBufClean\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
